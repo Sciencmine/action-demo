@@ -13,7 +13,7 @@
 	"fix": "npm run lint -- --fix"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
+    "@quasar/extras": "^1.9.4",
     "quasar": "^1.0.0",
     "vue-i18n": "^8.0.0"
   },
